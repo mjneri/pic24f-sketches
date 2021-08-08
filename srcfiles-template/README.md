@@ -1,0 +1,1 @@
+This folder contains the template source files I use for most of the sketches here.
